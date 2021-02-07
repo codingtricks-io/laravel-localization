@@ -1,6 +1,6 @@
 # Laravel Localization 
 
-![Demo Image](public\img\localization.png)
+![Demo Image](public/img/localization.png)
 
 ## Introduction
 
